@@ -1,8 +1,4 @@
 zmiana 1
 zmiana 2
-<<<<<<< HEAD
-zmiana 3
-=======
 zmiana 3
 zmiana 4
->>>>>>> cas-1
